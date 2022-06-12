@@ -6,10 +6,13 @@
 |git|lynx|
 |---|----|
 
-## Para executar
+# Descubra o parâmetro para consulta da preciptação de chuva da cidade desejada
+Acesse o site https://www.climatempo.com.br/ pesquise a cidade em seguida copie a url para usa-la posteriormente.
 
-Primeiro conceder permissão de execução
+## Conceda permissão de execução
 
 chmod +x previsao_chuva.sh
 
-./previsao_chuva.sh
+## Para executar
+
+./previsao_chuvas.sh cole a url  
