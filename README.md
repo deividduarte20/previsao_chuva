@@ -6,4 +6,10 @@
 |git|lynx|
 |---|----|
 
+## Para executar
 
+Primeiro conceder permissão de execução
+
+chmod +x previsao_chuva.sh
+
+./previsao_chuva.sh
