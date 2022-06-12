@@ -9,7 +9,7 @@
 # ------------------------------------------------------------------------ #
 #  Este programa irá extrair a preciptação de chuvas
 #  Exemplos:
-#      $ ./dolarhoje.sh
+#      $ ./previsao_chuva.sh url
 #
 # ------------------------------------------------------------------------ #
 # Histórico:
