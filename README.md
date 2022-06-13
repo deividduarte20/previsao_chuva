@@ -8,7 +8,7 @@
 Acesse o site https://www.climatempo.com.br/ pesquise a cidade em seguida copie a url para usa-la posteriormente.
 
 ## Conceda permissão de execução
-chmod +x previsao_chuva.sh
+chmod +x previsao_chuvas.sh
 
 ## Para executar
 ./previsao_chuvas.sh cole a url
