@@ -7,10 +7,10 @@
 # Manutenção: Deivid Duarte
 #
 # ------------------------------------------------------------------------ #
-#  Este programa irá extrair a preciptação de chuvas para pegar a url acesse o site https://www.climatempo.com.br/previsao-do-tempo?page=HOJE 
-pesquise a cidade e copie e cole ao lado do nome do script conforme segue exemplo abaixo.
-#  Exemplos:
-#      $ ./previsao_chuvas.sh url
+# Este programa irá extrair a preciptação de chuvas para pegar a url acesse o site https://www.climatempo.com.br/previsao-do-tempo?page=HOJE 
+# pesquise a cidade e copie e cole ao lado do nome do script conforme segue exemplo abaixo.
+# Exemplos:
+# ./previsao_chuvas.sh url
 #
 # ------------------------------------------------------------------------ #
 # Histórico:
